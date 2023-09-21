@@ -4,7 +4,7 @@
 
 # Units
 * [Unit 1 - Primitive Types](https://github.com/WLHS-APCSA-2023/Unit1) - 2 weeks
-* Unit 2 - Using Objects - 3 or 4 weeks
+* [Unit 2 - Using Objects](https://github.com/WLHS-APCSA-2023/Unit-2-Code) - 3 or 4 weeks
 * Unit 3 - Boolean Expressions and if Statements - 2 weeks
 * Unit 4 - Iteration - 3 weeks
 * Unit 5 - Writing Classes - 3 weeks
