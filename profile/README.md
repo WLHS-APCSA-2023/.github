@@ -7,7 +7,7 @@
     * [MadLibs Project](https://github.com/WLHS-APCSA-2023/Projects/tree/main/MadLibs)
     * [GeometryFun Project](https://github.com/WLHS-APCSA-2023/Projects/tree/main/GeometryFun)
 * [Unit 2 - Using Objects](https://github.com/WLHS-APCSA-2023/Unit-2-Code) - 3 or 4 weeks
-    * [Class Creation Project](https://github.com/WLHS-APCSA-2023/Unit-2-Code/tree/main/ClassDesignProject)
+    * [Class Design Project](https://github.com/WLHS-APCSA-2023/Unit-2-Code/tree/main/ClassDesignProject)
 * [Unit 3 - Boolean Expressions and if Statements](https://github.com/WLHS-APCSA-2023/Unit-3-Code) - 2 weeks
      * [DataFun Project](https://github.com/WLHS-APCSA-2023/Projects/tree/main/DataFun)
 * Unit 4 - Iteration - 3 weeks
