@@ -11,7 +11,9 @@
 * [Unit 3 - Boolean Expressions and if Statements](https://github.com/WLHS-APCSA-2023/Unit-3-Code) - 2 weeks
      * [DataFun Project](https://github.com/WLHS-APCSA-2023/Projects/tree/main/DataFun)
 * [Unit 4 - Iteration](https://github.com/WLHS-APCSA-2023/Unit-4-Code/tree/main) - 3 weeks
-     * [Unit 4 Homework 1](https://github.com/WLHS-APCSA-2023/Unit-4-Code/blob/main/Unit4HW1.java) 
+     * [Unit 4 Homework 1](https://github.com/WLHS-APCSA-2023/Unit-4-Code/blob/main/Unit4HW1.java)
+     * [Unit 4 Homewok 2]
+     * [LoopFun Project] 
 * Unit 5 - Writing Classes - 3 weeks
 * Unit 6 - Array - 1 or 2 weeks
 * Unit 7 - ArrayList - 2 weeks
