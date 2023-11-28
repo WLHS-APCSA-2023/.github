@@ -16,6 +16,7 @@
      * [LoopFun Project] 
 * Unit 5 - Writing Classes - 3 weeks
 * Unit 6 - Array - 1 or 2 weeks
+     *  [Unit 6 Homework 1](https://github.com/WLHS-APCSA-2023/Unit-6-Code/blob/main/Unit6HW1/Unit6HW1.java)
 * Unit 7 - ArrayList - 2 weeks
 * Unit 8 - 2D Array - 1 or 2 weeks
 * Unit 9 - Inheritance - 3 weeks
