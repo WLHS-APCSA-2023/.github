@@ -13,7 +13,7 @@
 * [Unit 4 - Iteration](https://github.com/WLHS-APCSA-2023/Unit-4-Code/tree/main) - 3 weeks
      * [Unit 4 Homework 1](https://github.com/WLHS-APCSA-2023/Unit-4-Code/blob/main/Unit4HW1.java)
      * [Unit 4 Homework 2](https://github.com/WLHS-APCSA-2023/Unit-4-Code/tree/main)
-     * [LoopFun Project] 
+     * [LoopFun Project](https://github.com/WLHS-APCSA-2023/Projects/tree/main/LoopFun)
 * Unit 5 - Writing Classes - 3 weeks
 * Unit 6 - Array - 1 or 2 weeks
      *  [Unit 6 Homework 1](https://github.com/WLHS-APCSA-2023/Unit-6-Code/blob/main/Unit6HW1/Unit6HW1.java)
