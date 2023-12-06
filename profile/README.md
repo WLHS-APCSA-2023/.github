@@ -3,20 +3,20 @@
 * Full AP Syllabus
 
 # Units
-* [Unit 1 - Primitive Types](https://github.com/WLHS-APCSA-2023/Unit1) - 2 weeks
+* [Unit 1 - Primitive Types](https://github.com/WLHS-APCSA-2023/ClassCode/tree/main/Unit-1-Code) - 2 weeks
     * [MadLibs Project](https://github.com/WLHS-APCSA-2023/Projects/tree/main/MadLibs)
     * [GeometryFun Project](https://github.com/WLHS-APCSA-2023/Projects/tree/main/GeometryFun)
-* [Unit 2 - Using Objects](https://github.com/WLHS-APCSA-2023/Unit-2-Code) - 3 or 4 weeks
+* [Unit 2 - Using Objects](https://github.com/WLHS-APCSA-2023/ClassCode/tree/main/Unit-2-Code) - 3 or 4 weeks
     * [Class Design Project](https://github.com/WLHS-APCSA-2023/Unit-2-Code/tree/main/ClassDesignProject)
-* [Unit 3 - Boolean Expressions and if Statements](https://github.com/WLHS-APCSA-2023/Unit-3-Code) - 2 weeks
+* [Unit 3 - Boolean Expressions and if Statements](https://github.com/WLHS-APCSA-2023/ClassCode/tree/main/Unit-3-Code) - 2 weeks
      * [DataFun Project](https://github.com/WLHS-APCSA-2023/Projects/tree/main/DataFun)
-* [Unit 4 - Iteration](https://github.com/WLHS-APCSA-2023/Unit-4-Code/tree/main) - 3 weeks
+* [Unit 4 - Iteration](https://github.com/WLHS-APCSA-2023/ClassCode/tree/main/Unit-4-Code) - 3 weeks
      * [Unit 4 Homework 1](https://github.com/WLHS-APCSA-2023/Unit-4-Code/blob/main/Unit4HW1.java)
      * [Unit 4 Homework 2](https://github.com/WLHS-APCSA-2023/Unit-4-Code/tree/main)
      * [LoopFun Project](https://github.com/WLHS-APCSA-2023/Projects/tree/main/LoopFun)
 * Unit 5 - Writing Classes - 3 weeks
-* [Unit 6 - Array - 2 weeks](https://github.com/WLHS-APCSA-2023/Unit-6-Code)
-     *  [Unit 6 Homework 1](https://github.com/WLHS-APCSA-2023/Unit-6-Code/blob/main/Unit6HW1/Unit6HW1.java)
+* [Unit 6 - Array - 2 weeks](https://github.com/WLHS-APCSA-2023/ClassCode/tree/main/Unit-6-Code)
+     *  [Unit 6 Homework 1](https://github.com/WLHS-APCSA-2023/ClassCode/tree/main/Unit-6-Code/Unit6HW1)
 * Unit 7 - ArrayList - 2 weeks
 * Unit 8 - 2D Array - 1 or 2 weeks
 * Unit 9 - Inheritance - 3 weeks
