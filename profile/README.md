@@ -17,7 +17,7 @@
 * Unit 5 - Writing Classes - 3 weeks
 * [Unit 6 - Array - 2 weeks](https://github.com/WLHS-APCSA-2023/ClassCode/tree/main/Unit-6-Code)
      *  [Unit 6 Homework 1](https://github.com/WLHS-APCSA-2023/ClassCode/tree/main/Unit-6-Code/Unit6HW1)
-     *  [Take Home Exam - ArrayFun] (https://github.com/WLHS-Programming1-2023/Projects/blob/main/ArrayFun/ArrayFun.java)
+     *  [Take Home Exam - ArrayFun](https://github.com/WLHS-Programming1-2023/Projects/blob/main/ArrayFun/ArrayFun.java)
 * Unit 7 - ArrayList - 2 weeks
 * Unit 8 - 2D Array - 1 or 2 weeks
 * Unit 9 - Inheritance - 3 weeks
