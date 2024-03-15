@@ -20,7 +20,7 @@
      *  [Take Home Exam - ArrayFun](https://github.com/WLHS-Programming1-2023/Projects/blob/main/ArrayFun/ArrayFun.java)
 * [Unit 7 - ArrayList - 2 weeks](https://github.com/WLHS-APCSA-2023/Unit-7-Code)
 * Unit 8 - 2D Array - 1 or 2 weeks
-* Unit 9 - Inheritance - 3 weeks
+* [Unit 9 - Inheritance](https://github.com/WLHS-APCSA-2023/Unit-9-Code)
 * Unit 10 - Recursion - 1 or 2 weeks
 
 # Computational Thinking Practices: Skills
